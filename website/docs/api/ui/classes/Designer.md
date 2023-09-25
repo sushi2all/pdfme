@@ -26,7 +26,7 @@ custom_edit_url: null
 | `props.domContainer` | `HTMLElement` |
 | `props.options?` | `Object` |
 | `props.options.font?` | `Record`<`string`, { `data`: `string` & `Uint8Array` & `ArrayBuffer` & `string` & `Uint8Array` & `string` & `ArrayBuffer` & `Uint8Array` & `string` & `Uint8Array` & `ArrayBuffer` & `ArrayBuffer` & `string` & `ArrayBuffer` & `Uint8Array` ; `fallback?`: `boolean` ; `subset?`: `boolean`  }\> |
-| `props.options.lang?` | ``"en"`` \| ``"ja"`` \| ``"ar"`` \| ``"th"`` \| ``"pl"`` |
+| `props.options.lang?` | ``"en"`` \| ``"ja"`` \| ``"ar"`` \| ``"th"`` \| ``"pl"`` \| ``"it"`` |
 | `props.template` | `Object` |
 | `props.template.basePdf` | `string` & `Uint8Array` & `ArrayBuffer` & `string` & `Uint8Array` & `string` & `ArrayBuffer` & `Uint8Array` & `string` & `Uint8Array` & `ArrayBuffer` & `ArrayBuffer` & `string` & `ArrayBuffer` & `Uint8Array` |
 | `props.template.columns?` | `string`[] |
@@ -344,7 +344,7 @@ ___
 | :------ | :------ |
 | `options` | `Object` |
 | `options.font?` | `Record`<`string`, { `data`: `string` & `Uint8Array` & `ArrayBuffer` & `string` & `Uint8Array` & `string` & `ArrayBuffer` & `Uint8Array` & `string` & `Uint8Array` & `ArrayBuffer` & `ArrayBuffer` & `string` & `ArrayBuffer` & `Uint8Array` ; `fallback?`: `boolean` ; `subset?`: `boolean`  }\> |
-| `options.lang?` | ``"en"`` \| ``"ja"`` \| ``"ar"`` \| ``"th"`` \| ``"pl"`` |
+| `options.lang?` | ``"en"`` \| ``"ja"`` \| ``"ar"`` \| ``"th"`` \| ``"pl"`` \| ``"it"``|
 
 #### Returns
 
